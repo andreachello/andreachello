@@ -53,13 +53,13 @@
 <img align="left" alt="NumPy" width="40px" src="https://www.netclipart.com/pp/m/238-2389846_grided-clipart-array-numpy-in-python.png" />
 
 
-<img align="left" alt="Pandas" width="40px" src="https://www.seekpng.com/png/detail/96-960917_10-working-with-large-datasets-pandas-python.png" />
+<img align="left" alt="Pandas" width="60px" src="https://www.seekpng.com/png/detail/96-960917_10-working-with-large-datasets-pandas-python.png" />
 
 
-<img align="left" alt="SciPy" width="40px" src="https://hackernoon.com/hn-images/0*Vj7U_XyrCh3gGgi-" />
+<img align="left" alt="SciPy" width="60px" src="https://hackernoon.com/hn-images/0*Vj7U_XyrCh3gGgi-" />
 
 
-<img align="left" alt="Matplotlib" width="40px" src="https://matplotlib.org/1.5.0/_static/logo2.png" />
+<img align="left" alt="Matplotlib" width="60px" src="https://matplotlib.org/1.5.0/_static/logo2.png" />
 
 
 <br />
