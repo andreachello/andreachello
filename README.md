@@ -3,12 +3,12 @@
 ## I'm a Finance Professional, Data Scientist and Quantative Finance Enthusiast
 
 ### Professional Background 💻
-- <img align="left" alt="andreachello | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/moleculer.svg" />Data Scientist at Sodexo - Current
+- Data Scientist at Sodexo 
 - High Yield Credit Analyst at IlliquidX Capital
 - Hedge Fund Research Analyst at Hedge Funds Investment Capital
 - Non-Performing Loans / Fixed-Income Analyst at Parente & Partners
 
-### Academic Background 𝝨
+### Academic Background 👨‍🎓👨‍🎓👨‍🎓
 - I’m currently enrolled in an MSc in Financial Engineering at World Quant University
 - MSc Investement Management at Cass Business School
 - MSc Corporate Finance at LUISS University
