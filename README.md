@@ -50,20 +50,16 @@
 ### Libraries:
 
 
-<img align="left" alt="NumPy" width="26px" src="https://www.netclipart.com/pp/m/238-2389846_grided-clipart-array-numpy-in-python.png" />
+<img align="left" alt="NumPy" width="40px" src="https://www.netclipart.com/pp/m/238-2389846_grided-clipart-array-numpy-in-python.png" />
 
 
-<img align="left" alt="Pandas" width="26px" src="https://www.seekpng.com/png/detail/96-960917_10-working-with-large-datasets-pandas-python.png" />
+<img align="left" alt="Pandas" width="40px" src="https://www.seekpng.com/png/detail/96-960917_10-working-with-large-datasets-pandas-python.png" />
 
 
-<img align="left" alt="SciPy" width="26px" src="https://hackernoon.com/hn-images/0*Vj7U_XyrCh3gGgi-" />
+<img align="left" alt="SciPy" width="40px" src="https://hackernoon.com/hn-images/0*Vj7U_XyrCh3gGgi-" />
 
-<img align="left" alt="Matplotlib" width="26px" src="https://matplotlib.org/1.5.0/_static/logo2.png" />
-<img align="left" alt="PowerBI" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/powerbi.svg" />
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
+<img align="left" alt="Matplotlib" width="40px" src="https://matplotlib.org/1.5.0/_static/logo2.png" />
 
 
 <br />
