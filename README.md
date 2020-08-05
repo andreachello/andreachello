@@ -13,7 +13,7 @@
 - MSc Investement Management at Cass Business School
 - MSc Corporate Finance at LUISS University
 - BSc Economics at LUISS University
-<img align="left" alt="andreachello | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/en/1/17/Worldquant_logo.png" />
+<img align="left" alt="andreachello | LinkedIn" width="22px" src="https://s3.amazonaws.com/totemv2-production/totem/assets/logos/attachments/3130/original/WQU_Radial-Icon_FullColor_RGB.png?1511813082" />
 
 ### Connect with me:
 
