@@ -64,9 +64,10 @@
 
 <img align="left" alt="Matplotlib" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlC74HiVPRdg_015TR0Khb0aoFbbS0WXSUtg&usqp=CAU" />
 
-<br />
 
-- <b>R: </b>
+
+
+- <b> R: </b>
 
 <img align="left" alt="DPlyr" width="30px" src="https://scottishsnow.files.wordpress.com/2018/10/hex-dplyr.png?w=1140" />
 
