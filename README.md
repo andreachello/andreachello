@@ -46,7 +46,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
-<br />
+
 
 ### Libraries:
 
@@ -64,6 +64,11 @@
 
 <img align="left" alt="Matplotlib" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlC74HiVPRdg_015TR0Khb0aoFbbS0WXSUtg&usqp=CAU" />
 
+<b>R: </b>
+
+<img align="left" alt="DPlyr" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlC74HiVPRdg_015TR0Khb0aoFbbS0WXSUtg&usqp=CAU" />
+
+<img align="left" alt="GGPLOT2" width="60px" src="https://ggplot2.tidyverse.org/logo.png" />
 
 <br />
 <br />
