@@ -57,4 +57,4 @@
 [instagram]: https://www.instagram.com/andreachello/?hl=en
 [linkedin]: https://www.linkedin.com/in/andrea-chello-ab50b39b/
 [facebook]: https://www.facebook.com/andrea.chello94
-[WQU}: <img align="left" alt="andreachello | LinkedIn" width="22px" src="https://s3.amazonaws.com/totemv2-production/totem/assets/logos/attachments/3130/original/WQU_Radial-Icon_FullColor_RGB.png?1511813082" />
+[WQU]: <img align="left" alt="andreachello | LinkedIn" width="22px" src="https://s3.amazonaws.com/totemv2-production/totem/assets/logos/attachments/3130/original/WQU_Radial-Icon_FullColor_RGB.png?1511813082" />
