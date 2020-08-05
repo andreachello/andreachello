@@ -1,8 +1,18 @@
 ### Hi there, I'm Andrea 👋
 
 ## I'm a Finance Professional, Data Scientist and Quantative Researcher
-- 💻 I’m currently working at Sodexo as a Data Scientist!
+
+### Professional Background
+- 💻 I’m currently working at Sodexo as a Data Scientist
+- High Yield Credit Analyst at IlliquidX Capital
+- Hedge Fund Research Analyst at Hedge Funds Investment Capital
+- Non-Performing Loans / Fixed-Income Analyst at Parente & Partners
+
+### Academic Background
 - 𝝨 I’m currently enrolled in an MSc in Financial Engineering at World Quant University
+- MSc Investement Management at Cass Business School
+- MSc Corporate Finance at LUISS University
+- BSc Economics at LUISS University
 
 ### Connect with me:
 
