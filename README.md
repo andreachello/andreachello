@@ -64,7 +64,7 @@
 
 <img align="left" alt="Matplotlib" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlC74HiVPRdg_015TR0Khb0aoFbbS0WXSUtg&usqp=CAU" />
 
-\newline
+
 <br />
 
 #### R
