@@ -59,7 +59,7 @@
 <img align="left" alt="SciPy" width="62x" src="https://hackernoon.com/hn-images/0*Vj7U_XyrCh3gGgi-" />
 
 
-<img align="left" alt="Matplotlib" width="70px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlC74HiVPRdg_015TR0Khb0aoFbbS0WXSUtg&usqp=CAU" />
+<img align="left" alt="Matplotlib" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlC74HiVPRdg_015TR0Khb0aoFbbS0WXSUtg&usqp=CAU" />
 
 
 <br />
