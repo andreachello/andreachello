@@ -56,10 +56,10 @@
 <img align="left" alt="Pandas" width="60px" src="https://www.seekpng.com/png/detail/96-960917_10-working-with-large-datasets-pandas-python.png" />
 
 
-<img align="left" alt="SciPy" width="60px" src="https://hackernoon.com/hn-images/0*Vj7U_XyrCh3gGgi-" />
+<img align="left" alt="SciPy" width="70px" src="https://hackernoon.com/hn-images/0*Vj7U_XyrCh3gGgi-" />
 
 
-<img align="left" alt="Matplotlib" width="60px" src="https://cdn.clipart.email/4558f9fd563fb225c262d3068c493b13_artanes-inc-home_400-280.png" />
+<img align="left" alt="Matplotlib" width="80px" src="https://cdn.clipart.email/4558f9fd563fb225c262d3068c493b13_artanes-inc-home_400-280.png" />
 
 
 <br />
