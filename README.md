@@ -3,6 +3,7 @@
 ## I'm a Finance Professional, Data Scientist and Quantative Finance Enthusiast
 
 ### Professional Background 💻
+<div>Icons made by <a href="https://www.flaticon.com/authors/eucalyp" title="Eucalyp">Eucalyp</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 - I’m currently working at Sodexo as a Data Scientist
 - High Yield Credit Analyst at IlliquidX Capital
 - Hedge Fund Research Analyst at Hedge Funds Investment Capital
