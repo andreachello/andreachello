@@ -8,11 +8,12 @@
 - Hedge Fund Research Analyst at Hedge Funds Investment Capital
 - Non-Performing Loans / Fixed-Income Analyst at Parente & Partners
 
-### Academic Background 👨‍🎓👨‍🎓👨‍🎓
-- I’m currently enrolled in an MSc in Financial Engineering at World Quant University
+### Academic Background 👨‍🎓
+- MSc Financial Engineering at World Quant University
 - MSc Investement Management at Cass Business School
 - MSc Corporate Finance at LUISS University
 - BSc Economics at LUISS University
+<img align="left" alt="andreachello | LinkedIn" width="22px" src="https://images.app.goo.gl/MvtagouYS4Jf8M8Y9" />
 
 ### Connect with me:
 
