@@ -35,18 +35,14 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Applied Econometrics Notebooks
 <!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
+- [Vector Autoregressive Models in R](https://github.com/andreachello/Applied-Econometric-Time-Series/blob/master/Multivariate%20Time%20Series%20Analysis/VAR%20and%20SVAR%20Model%20Analysis.ipynb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="andreachello's Github Stats" src="https://github-readme-stats.vercel.app/api?username=andreachello&show_icons=true&hide_border=true" />
 
 [instagram]: https://www.instagram.com/andreachello/?hl=en
 [linkedin]: https://www.linkedin.com/in/andrea-chello-ab50b39b/
