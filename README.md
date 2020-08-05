@@ -50,7 +50,7 @@
 
 ### Libraries:
 
-<b>Python: </b>
+- <b>Python: </b>
 
 
 <img align="left" alt="NumPy" width="40px" src="https://www.netclipart.com/pp/m/238-2389846_grided-clipart-array-numpy-in-python.png" />
@@ -63,12 +63,12 @@
 
 
 <img align="left" alt="Matplotlib" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlC74HiVPRdg_015TR0Khb0aoFbbS0WXSUtg&usqp=CAU" />
-
-<b>R: </b>
+<br />
+- <b>R: </b>
 
 <img align="left" alt="DPlyr" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlC74HiVPRdg_015TR0Khb0aoFbbS0WXSUtg&usqp=CAU" />
 
-<img align="left" alt="GGPLOT2" width="60px" src="https://ggplot2.tidyverse.org/logo.png" />
+<img align="left" alt="GGPLOT2" width="30px" src="https://ggplot2.tidyverse.org/logo.png" />
 
 <br />
 <br />
