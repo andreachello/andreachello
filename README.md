@@ -3,22 +3,22 @@
 ## I'm a Finance Professional, Data Scientist and Quantitative Finance Enthusiast
 
 ### Professional Background 💻
-- <img align="left" alt="andreachello | LinkedIn" width="30px" src="https://www.newhope.com/sites/newhope360.com/files/styles/article_featured_retina/public/sodexo-logo.png?itok=uEAHQb2C" /> Data Scientist at Sodexo 
+- <img align="left" alt="andreachello | LinkedIn" width="60px" src="https://www.newhope.com/sites/newhope360.com/files/styles/article_featured_retina/public/sodexo-logo.png?itok=uEAHQb2C" /> Data Scientist at Sodexo 
 
-- <img align="left" alt="andreachello | LinkedIn" width="30px" src="https://www.illiquidx.com/img/logo_dark.png" /> High Yield Credit Analyst at IlliquidX Capital
+- <img align="left" alt="andreachello | LinkedIn" width="60px" src="https://www.illiquidx.com/img/logo_dark.png" /> High Yield Credit Analyst at IlliquidX Capital
 
-- <img align="left" alt="andreachello | LinkedIn" width="30px" src="https://lh3.googleusercontent.com/proxy/hl2W5KV5KY1GpjYAqDIWoSQwP6L_rBY7UbQAdQ6Gqz7sBcIUWEMe-4kc1nhRhJIaHlRRRiC1IoyqN22Gp88fpeib36Ug" />Hedge Fund Research Analyst at Hedge Funds Investment Capital
+- <img align="left" alt="andreachello | LinkedIn" width="60px" src="https://lh3.googleusercontent.com/proxy/hl2W5KV5KY1GpjYAqDIWoSQwP6L_rBY7UbQAdQ6Gqz7sBcIUWEMe-4kc1nhRhJIaHlRRRiC1IoyqN22Gp88fpeib36Ug" />Hedge Fund Research Analyst at Hedge Funds Investment Capital
 
-- <img align="left" alt="andreachello | LinkedIn" width="30px" src="https://www.neikos.it/wp-content/uploads/2015/05/logo_parente.png" />Non-Performing Loans / Fixed-Income Analyst at Parente & Partners
+- <img align="left" alt="andreachello | LinkedIn" width="60px" src="https://www.neikos.it/wp-content/uploads/2015/05/logo_parente.png" />Non-Performing Loans / Fixed-Income Analyst at Parente & Partners
 
 ### Academic Background 👨‍🎓
-- <img align="left" alt="andreachello | LinkedIn" width="60px" src="https://s3.amazonaws.com/totemv2-production/totem/assets/logos/attachments/3130/original/WQU_Radial-Icon_FullColor_RGB.png?1511813082" /> MSc Financial Engineering at World Quant University
+- <img align="left" alt="andreachello | LinkedIn" width="30px" src="https://s3.amazonaws.com/totemv2-production/totem/assets/logos/attachments/3130/original/WQU_Radial-Icon_FullColor_RGB.png?1511813082" /> MSc Financial Engineering at World Quant University
 
-- <img align="left" alt="andreachello | LinkedIn" width="60px" src="https://www.cass.city.ac.uk/__data/assets/git_bridge/0015/344112/main/img/favicon-256.png" /> MSc Investement Management at Cass Business School
+- <img align="left" alt="andreachello | LinkedIn" width="30px" src="https://www.cass.city.ac.uk/__data/assets/git_bridge/0015/344112/main/img/favicon-256.png" /> MSc Investement Management at Cass Business School
 
-- <img align="left" alt="andreachello | LinkedIn" width="60px" src="https://pbs.twimg.com/profile_images/1290190184546476032/4aXzIEzd_400x400.jpg" />  Corporate Finance at LUISS University
+- <img align="left" alt="andreachello | LinkedIn" width="30px" src="https://pbs.twimg.com/profile_images/1290190184546476032/4aXzIEzd_400x400.jpg" />  Corporate Finance at LUISS University
 
-- <img align="left" alt="andreachello | LinkedIn" width="60px" src="https://pbs.twimg.com/profile_images/1290190184546476032/4aXzIEzd_400x400.jpg" />BSc Economics at LUISS University
+- <img align="left" alt="andreachello | LinkedIn" width="30px" src="https://pbs.twimg.com/profile_images/1290190184546476032/4aXzIEzd_400x400.jpg" />BSc Economics at LUISS University
 
 ### Connect with me:
 
