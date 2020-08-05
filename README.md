@@ -3,10 +3,10 @@
 ## I'm a Finance Professional, Data Scientist and Quantative Finance Enthusiast
 
 ### Professional Background 💻
-- Data Scientist at Sodexo 
-- High Yield Credit Analyst at IlliquidX Capital
-- Hedge Fund Research Analyst at Hedge Funds Investment Capital
-- Non-Performing Loans / Fixed-Income Analyst at Parente & Partners
+- <img align="left" alt="andreachello | LinkedIn" width="22px" src="https://www.newhope.com/sites/newhope360.com/files/styles/article_featured_retina/public/sodexo-logo.png?itok=uEAHQb2C" /> Data Scientist at Sodexo 
+- <img align="left" alt="andreachello | LinkedIn" width="22px" src="https://www.illiquidx.com/img/logo_dark.png" />High Yield Credit Analyst at IlliquidX Capital
+- <img align="left" alt="andreachello | LinkedIn" width="22px" src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.hfim.com%2F&psig=AOvVaw0Gk3sMzOBSVVEJUcdAGr6d&ust=1596752860242000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJioroiOhesCFQAAAAAdAAAAABAD" />Hedge Fund Research Analyst at Hedge Funds Investment Capital
+- <img align="left" alt="andreachello | LinkedIn" width="22px" src="https://www.neikos.it/wp-content/uploads/2015/05/logo_parente.png" />Non-Performing Loans / Fixed-Income Analyst at Parente & Partners
 
 ### Academic Background 👨‍🎓
 - <img align="left" alt="andreachello | LinkedIn" width="22px" src="https://s3.amazonaws.com/totemv2-production/totem/assets/logos/attachments/3130/original/WQU_Radial-Icon_FullColor_RGB.png?1511813082" /> MSc Financial Engineering at World Quant University
