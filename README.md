@@ -50,7 +50,7 @@
 
 ### Libraries:
 
-- <b>Python: </b>
+#### Python
 
 
 <img align="left" alt="NumPy" width="40px" src="https://www.netclipart.com/pp/m/238-2389846_grided-clipart-array-numpy-in-python.png" />
@@ -67,7 +67,7 @@
 
 
 
-- <b> R: </b>
+#### R
 
 <img align="left" alt="DPlyr" width="30px" src="https://scottishsnow.files.wordpress.com/2018/10/hex-dplyr.png?w=1140" />
 
