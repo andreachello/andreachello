@@ -73,7 +73,7 @@
 
 <img align="left" alt="GGPLOT2" width="30px" src="https://ggplot2.tidyverse.org/logo.png" />
 
-<img align="left" alt="GGPLOT2" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRIWeJ9T_qb2aum6VyevsPWV_sorIM0CSW-lg&usqp=CAU" />
+<img align="left" alt="GGPLOT2" width="200px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRIWeJ9T_qb2aum6VyevsPWV_sorIM0CSW-lg&usqp=CAU" />
 <br />
 <br />
 
