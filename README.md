@@ -69,7 +69,7 @@
 
 #### R
 
-<img align="left" alt="GGPLOT2" width="150px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRIWeJ9T_qb2aum6VyevsPWV_sorIM0CSW-lg&usqp=CAU" />
+<img align="left" alt="GGPLOT2" width="150px" src="https://avatars0.githubusercontent.com/u/22032646?s=280&v=4" />
 
 <img align="left" alt="GGPLOT2" width="200px" src="https://lh3.googleusercontent.com/proxy/6nrFFHCCA5qjIBe0FR5nxc_ucfmoLHPyM582jdUiqPoG41Lw25p_a0PQ7wreYFrowt7cGsD2Jvz_dcdH3oigrHVYcnekx85eRpUvCQqzlXo" />
 
