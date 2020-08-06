@@ -74,7 +74,7 @@
 
 <img align="left" alt="Tidy" width="45px" src="https://avatars0.githubusercontent.com/u/22032646?s=280&v=4" />
 
-<img align="left" alt="DPLYR" width="45px" src="https://scottishsnow.files.wordpress.com/2018/10/hex-dplyr.png" />
+<img align="left" alt="DPLYR" width="40px" src="https://scottishsnow.files.wordpress.com/2018/10/hex-dplyr.png" />
 
 <img align="left" alt="Tidy2" width="200px" src="https://lh3.googleusercontent.com/proxy/6nrFFHCCA5qjIBe0FR5nxc_ucfmoLHPyM582jdUiqPoG41Lw25p_a0PQ7wreYFrowt7cGsD2Jvz_dcdH3oigrHVYcnekx85eRpUvCQqzlXo" />
 
