@@ -64,14 +64,19 @@
 
 <img align="left" alt="Matplotlib" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlC74HiVPRdg_015TR0Khb0aoFbbS0WXSUtg&usqp=CAU" />
 
+<img align="left" alt="Scikit learn" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
+
+
 
 <br />
 
 #### R
 
-<img align="left" alt="GGPLOT2" width="45px" src="https://avatars0.githubusercontent.com/u/22032646?s=280&v=4" />
+<img align="left" alt="Tidy" width="45px" src="https://avatars0.githubusercontent.com/u/22032646?s=280&v=4" />
 
-<img align="left" alt="GGPLOT2" width="200px" src="https://lh3.googleusercontent.com/proxy/6nrFFHCCA5qjIBe0FR5nxc_ucfmoLHPyM582jdUiqPoG41Lw25p_a0PQ7wreYFrowt7cGsD2Jvz_dcdH3oigrHVYcnekx85eRpUvCQqzlXo" />
+<img align="left" alt="DPLYR" width="45px" src="https://scottishsnow.files.wordpress.com/2018/10/hex-dplyr.png" />
+
+<img align="left" alt="Tidy2" width="200px" src="https://lh3.googleusercontent.com/proxy/6nrFFHCCA5qjIBe0FR5nxc_ucfmoLHPyM582jdUiqPoG41Lw25p_a0PQ7wreYFrowt7cGsD2Jvz_dcdH3oigrHVYcnekx85eRpUvCQqzlXo" />
 
 <br />
 <br />
