@@ -64,7 +64,7 @@
 
 <img align="left" alt="Matplotlib" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlC74HiVPRdg_015TR0Khb0aoFbbS0WXSUtg&usqp=CAU" />
 
-<img align="left" alt="Scikit learn" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
+<img align="left" alt="Scikit learn" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
 
 
 
