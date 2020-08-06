@@ -69,11 +69,8 @@
 
 #### R
 
-<img align="left" alt="DPlyr" width="30px" src="https://scottishsnow.files.wordpress.com/2018/10/hex-dplyr.png?w=1140" />
+<img align="left" alt="GGPLOT2" width="300px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRIWeJ9T_qb2aum6VyevsPWV_sorIM0CSW-lg&usqp=CAU" />
 
-<img align="left" alt="GGPLOT2" width="30px" src="https://ggplot2.tidyverse.org/logo.png" />
-
-<img align="left" alt="GGPLOT2" width="200px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRIWeJ9T_qb2aum6VyevsPWV_sorIM0CSW-lg&usqp=CAU" />
 <br />
 <br />
 
