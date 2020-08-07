@@ -76,8 +76,6 @@
 
 <img align="left" alt="DPLYR" width="40px" src="https://scottishsnow.files.wordpress.com/2018/10/hex-dplyr.png" />
 
-<img align="left" alt="Tidy2" width="220px" src="https://lh3.googleusercontent.com/proxy/6nrFFHCCA5qjIBe0FR5nxc_ucfmoLHPyM582jdUiqPoG41Lw25p_a0PQ7wreYFrowt7cGsD2Jvz_dcdH3oigrHVYcnekx85eRpUvCQqzlXo" />
-
 <br />
 <br />
 
