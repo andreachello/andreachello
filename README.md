@@ -7,7 +7,7 @@
 
 - <img align="left" alt="andreachello | LinkedIn" width="60px" src="https://www.illiquidx.com/img/logo_dark.png" /> High Yield Credit Analyst at IlliquidX Capital
 
-- <img align="left" alt="HFIM" width="60px" src="https://lh3.googleusercontent.com/proxy/NOifNbdE_4uMSXVo9RSbEAy_h5DKtgucMhcyheOYc3IMU3Q6TMyg6lg8oiBBP2d6Cf3gHGaC6Z7xsEY8tcmfiCRl7-oL" />Hedge Fund Research Analyst at Hedge Funds Investment Capital
+- <img align="left" alt="HFIM" width="60px" src="https://lh3.googleusercontent.com/proxy/Usag9Hmdm9ov0hJIjAk6Bis4ihpemtxJ_nNLL7esORM61YAVonQzcCXLYdJlsOIFJYcyr36d1oyZAZ_cejT5cdy5FhXM" />Hedge Fund Research Analyst at Hedge Funds Investment Capital
 
 - <img align="left" alt="andreachello | LinkedIn" width="60px" src="https://www.neikos.it/wp-content/uploads/2015/05/logo_parente.png" />Non-Performing Loans / Fixed-Income Analyst at Parente & Partners
 
@@ -34,14 +34,14 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<img align="left" alt="Django" width="40px" src="https://automationpanda.files.wordpress.com/2017/09/django-logo-negative.png" />
+<img align="left" alt="Django" width="60px" src="https://automationpanda.files.wordpress.com/2017/09/django-logo-negative.png" />
 
 
-<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
+<img align="left" alt="R" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="PowerBI" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/powerbi.svg" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
