@@ -86,11 +86,11 @@
 
 <img align="left" alt="Matplotlib" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlC74HiVPRdg_015TR0Khb0aoFbbS0WXSUtg&usqp=CAU" />
 
-<img align="left" alt="Seaborn" width="40px" src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" />
+<img align="left" alt="Seaborn" width="30px" src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" />
 
 <img align="left" alt="Scikit learn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
 
-<img align="left" alt="Keras" width="90px" src="https://keras.io/img/logo.png" />
+<img align="left" alt="Keras" width="100px" src="https://keras.io/img/logo.png" />
 
 <img align="left" alt="TF" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />
 
