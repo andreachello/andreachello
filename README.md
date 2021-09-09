@@ -29,7 +29,7 @@
 <br />
 
 
-### Web Development
+### Web Development (Front & Back End)
 
 <img align="left" alt="HTML" width="80px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-image-logo-html-7.png" />
 
@@ -49,11 +49,11 @@
 
 ### Data Science:
 
-<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Python" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<img align="left" alt="R" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
+<img align="left" alt="R" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 
-<img align="left" alt="PowerBI" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/powerbi.svg" />
+<img align="left" alt="PowerBI" width="56px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/powerbi.svg" />
 
 <br /><br />
 
