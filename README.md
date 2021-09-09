@@ -50,10 +50,21 @@
 
 ### Web Development
 
-<img align="left" alt="Django" width="60px" src="https://automationpanda.files.wordpress.com/2017/09/django-logo-negative.png" />
+<img align="left" alt="HTML" width="30px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-image-logo-html-7.png" />
 
 <img align="left" alt="JS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 
+<img align="left" alt="JS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
+
+<img align="left" alt="JS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
+
+<img align="left" alt="JS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
+
+<img align="left" alt="JS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
+
+<img align="left" alt="Django" width="60px" src="https://automationpanda.files.wordpress.com/2017/09/django-logo-negative.png" />
+
+<br />
 
 ### Libraries:
 
