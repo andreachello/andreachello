@@ -36,9 +36,6 @@
 
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<img align="left" alt="Django" width="60px" src="https://automationpanda.files.wordpress.com/2017/09/django-logo-negative.png" />
-
-
 <img align="left" alt="R" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 
 <img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -50,6 +47,12 @@
 
 
 <br />
+
+### Web Development
+
+<img align="left" alt="Django" width="60px" src="https://automationpanda.files.wordpress.com/2017/09/django-logo-negative.png" />
+
+<img align="left" alt="JS" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 
 
 ### Libraries:
