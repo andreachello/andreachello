@@ -57,7 +57,7 @@
 
 <img align="left" alt="Truffle" width="40px" src="https://avatars.githubusercontent.com/u/22205159?s=280&v=4" />
 
-<img align="left" alt="Moralis" width="50px" src="https://moralis.io/wp-content/uploads/2021/06/Moralis-Glass-Favicon.svg" />
+<img align="left" alt="Moralis" width="60px" src="https://moralis.io/wp-content/uploads/2021/06/Moralis-Glass-Favicon.svg" />
 
 
 <br /><br />
