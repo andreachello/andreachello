@@ -49,13 +49,13 @@
 
 ### Blockchain Development
 
-<img align="left" alt="Solidity" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" />
+<img align="left" alt="Solidity" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" />
 
 <img align="left" alt="Web3" width="40px" src="https://pbs.twimg.com/media/Daq-5fEWsAA6gBy.jpg" />
 
 <img align="left" alt="Hardhat" width="40px" src="https://pbs.twimg.com/profile_images/1317925773425168384/XQkaoFRg_400x400.jpg" />
 
-<img align="left" alt="Truffle" width="40px" src="https://truffleframework.com/img/favicons/truffle-share.png" />
+<img align="left" alt="Truffle" width="40px" src="https://avatars.githubusercontent.com/u/22205159?s=280&v=4" />
 
 <br /><br />
 
