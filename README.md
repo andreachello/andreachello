@@ -83,7 +83,7 @@
 
 <img align="left" alt="SciPy" width="62x" src="https://warehouse-camo.ingress.cmh1.psfhosted.org/b7bc03ced52d0905d50d13d18eaa8e2816316f75/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f646f6e6e656d617274696e2f646174612d736369656e63652d69707974686f6e2d6e6f7465626f6f6b732f6d61737465722f696d616765732f73636970792e706e67" />
 
-<img align="left" alt="Statsmodel" width="100px" src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg" />
+<img align="left" alt="Statsmodels" width="40px" src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg" />
 
 <img align="left" alt="Matplotlib" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlC74HiVPRdg_015TR0Khb0aoFbbS0WXSUtg&usqp=CAU" />
 
