@@ -47,6 +47,18 @@
 
 <br /><br />
 
+### Blockchain Development
+
+<img align="left" alt="Solidity" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" />
+
+<img align="left" alt="Web3" width="60px" src="https://pbs.twimg.com/media/Daq-5fEWsAA6gBy.jpg" />
+
+<img align="left" alt="Hardhat" width="60px" src="https://pbs.twimg.com/profile_images/1317925773425168384/XQkaoFRg_400x400.jpg" />
+
+<img align="left" alt="HTML" width="80px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-image-logo-html-7.png" />
+
+<br /><br />
+
 ### Data Science:
 
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
