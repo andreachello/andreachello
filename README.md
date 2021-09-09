@@ -92,7 +92,7 @@
 
 <img align="left" alt="Keras" width="100px" src="https://keras.io/img/logo.png" />
 
-<img align="left" alt="TF" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />
+<img align="left" alt="TF" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />
 
 
 <br /><br />
