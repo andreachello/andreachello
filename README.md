@@ -49,7 +49,7 @@
 
 ### Blockchain Development
 
-<img align="left" alt="Solidity" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" />
+<img align="left" alt="Solidity" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" />
 
 <img align="left" alt="Web3" width="40px" src="https://pbs.twimg.com/media/Daq-5fEWsAA6gBy.jpg" />
 
