@@ -52,7 +52,7 @@
 
 <img align="left" alt="HTML" width="30px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-image-logo-html-7.png" />
 
-<img align="left" alt="JS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
+<img align="left" alt="JS" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 
 <img align="left" alt="JS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 
