@@ -1,6 +1,6 @@
 ### Hi there, I'm Andrea 👋
 
-## I'm a Finance Professional, Data Scientist and Quantitative Finance Enthusiast
+## I'm a Finance Professional, Data Scientist, Quantitative Researcher and Full-Stack Blockchain Developer
 
 ### Professional Background 💻
 - <img align="left" alt="andreachello | LinkedIn" width="60px" src="https://www.newhope.com/sites/newhope360.com/files/styles/article_featured_retina/public/sodexo-logo.png?itok=uEAHQb2C" /> Data Scientist at Sodexo 
