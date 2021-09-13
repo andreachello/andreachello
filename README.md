@@ -109,10 +109,14 @@
 
 ---
 
+### 📕 Machine Learning Notebooks
+<!-- BLOG-POST-LIST:START -->
+- [Supervised Machine Learning: Regression](https://github.com/andreachello/Machine-Learning/blob/main/Supervised%20Learning/Regression/Supervised%20Machine%20Learning%20-%20Regression.ipynb)
+<!-- BLOG-POST-LIST:END -->
+
 ### 📕 Applied Econometrics Notebooks
 <!-- BLOG-POST-LIST:START -->
 - [Vector Autoregressive Models in R](https://github.com/andreachello/Applied-Econometric-Time-Series/blob/master/Multivariate%20Time%20Series%20Analysis/VAR%20and%20SVAR%20Model%20Analysis.ipynb)
-- [Supervised Machine Learning: Regression](https://github.com/andreachello/Machine-Learning/blob/main/Supervised%20Learning/Regression/Supervised%20Machine%20Learning%20-%20Regression.ipynb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
