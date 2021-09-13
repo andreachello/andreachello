@@ -20,6 +20,9 @@
 
 - <img align="left" alt="andreachello | LinkedIn" width="30px" src="https://pbs.twimg.com/profile_images/1290190184546476032/4aXzIEzd_400x400.jpg" />BSc Economics at LUISS University
 
+
+<br /><br /><br /><br />
+
 ### Connect with me:
 
 [<img align="left" alt="andreachello | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
