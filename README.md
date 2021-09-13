@@ -45,7 +45,7 @@
 
 <img align="left" alt="Django" width="60px" src="https://automationpanda.files.wordpress.com/2017/09/django-logo-negative.png" />
 
-<br /><br />
+<br /><br /><br /><br />
 
 ### Blockchain Development
 
