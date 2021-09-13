@@ -26,7 +26,7 @@
 [<img align="left" alt="andreachello | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="andreachello | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-<br />
+<br /><br /><br /><br />
 
 
 ### Web Development (Front & Back End)
@@ -60,7 +60,7 @@
 <img align="left" alt="Moralis" width="50px" src="https://moralis.io/wp-content/uploads/2021/06/Moralis-Glass-Favicon.svg" />
 
 
-<br /><br />
+<br /><br /><br /><br />
 
 ### Data Science:
 
@@ -112,6 +112,7 @@
 ### 📕 Applied Econometrics Notebooks
 <!-- BLOG-POST-LIST:START -->
 - [Vector Autoregressive Models in R](https://github.com/andreachello/Applied-Econometric-Time-Series/blob/master/Multivariate%20Time%20Series%20Analysis/VAR%20and%20SVAR%20Model%20Analysis.ipynb)
+- [Supervised Machine Learning: Regression](https://github.com/andreachello/Machine-Learning/blob/main/Supervised%20Learning/Regression/Supervised%20Machine%20Learning%20-%20Regression.ipynb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
