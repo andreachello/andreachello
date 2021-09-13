@@ -3,6 +3,10 @@
 ## I'm a Finance Professional, Data Scientist, Quantitative Researcher and Full-Stack Blockchain Developer
 
 ### Professional Background 💻
+
+- <img align="left" alt="andreachello | LinkedIn" width="60px" src="https://www.sushibatoken.com/static/images/Sushiba_Logo.svg" /> Founder at Sushiba 
+
+
 - <img align="left" alt="andreachello | LinkedIn" width="60px" src="https://www.newhope.com/sites/newhope360.com/files/styles/article_featured_retina/public/sodexo-logo.png?itok=uEAHQb2C" /> Data Scientist at Sodexo 
 
 - <img align="left" alt="andreachello | LinkedIn" width="60px" src="https://www.illiquidx.com/img/logo_dark.png" /> High Yield Credit Analyst at IlliquidX Capital
