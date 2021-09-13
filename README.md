@@ -21,7 +21,7 @@
 - <img align="left" alt="andreachello | LinkedIn" width="30px" src="https://pbs.twimg.com/profile_images/1290190184546476032/4aXzIEzd_400x400.jpg" />BSc Economics at LUISS University
 
 
-<br /><br />
+<br /
 
 ### Connect with me:
 
@@ -29,7 +29,7 @@
 [<img align="left" alt="andreachello | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="andreachello | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-<br /><br /><br /><br />
+<br /><br />
 
 
 ### Web Development (Front & Back End)
@@ -73,7 +73,7 @@
 
 <img align="left" alt="PowerBI" width="46px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/powerbi.svg" />
 
-<br /><br />
+<br /><br /><br />
 
 #### Python
 
@@ -99,7 +99,7 @@
 <img align="left" alt="TF" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />
 
 
-<br /><br />
+<br /><br /><br />
 
 #### R
 
