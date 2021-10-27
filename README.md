@@ -98,8 +98,8 @@
 <img align="left" alt="Scikit learn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
 <br /><br />
 <img align="left" alt="Keras" width="100px" src="https://keras.io/img/logo.png" />
-
-<img align="left" alt="TF" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />
+<br />
+<img align="left" alt="TF" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />
 
 
 <br /><br /><br />
