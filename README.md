@@ -17,7 +17,7 @@
 ### Academic Background 👨‍🎓
 - <img align="left" alt="andreachello | LinkedIn" width="30px" src="https://s3.amazonaws.com/totemv2-production/totem/assets/logos/attachments/3130/original/WQU_Radial-Icon_FullColor_RGB.png?1511813082" /> MSc Financial Engineering at World Quant University
 
-- <img align="left" alt="andreachello | LinkedIn" width="30px" src="https://www.cass.city.ac.uk/__data/assets/git_bridge/0015/344112/main/img/favicon-256.png" /> MSc Investement Management at Cass Business School
+- <img align="left" alt="andreachello | LinkedIn" width="30px" src="https://www.cass.city.ac.uk/__data/assets/git_bridge/0015/344112/main/img/favicon-256.png" /> MSc Investment Management at Cass Business School
 
 - <img align="left" alt="andreachello | LinkedIn" width="30px" src="https://pbs.twimg.com/profile_images/1290190184546476032/4aXzIEzd_400x400.jpg" /> MSc Corporate Finance at LUISS University
 
