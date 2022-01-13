@@ -19,9 +19,9 @@
 
 - <img align="left" alt="andreachello | LinkedIn" width="30px" src="https://www.cass.city.ac.uk/__data/assets/git_bridge/0015/344112/main/img/favicon-256.png" /> MSc Investment Management at Cass Business School
 
-- <img align="left" alt="andreachello | LinkedIn" width="30px" src="https://pbs.twimg.com/profile_images/1290190184546476032/4aXzIEzd_400x400.jpg" /> MSc Corporate Finance at LUISS University
+- <img align="left" alt="andreachello | LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Logo_luiss.png" /> MSc Corporate Finance at LUISS University
 
-- <img align="left" alt="andreachello | LinkedIn" width="30px" src="https://pbs.twimg.com/profile_images/1290190184546476032/4aXzIEzd_400x400.jpg" />BSc Economics at LUISS University
+- <img align="left" alt="andreachello | LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Logo_luiss.png" />BSc Economics at LUISS University
 
 
 <br />
