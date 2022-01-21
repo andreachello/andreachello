@@ -51,6 +51,8 @@
 
 <img align="left" alt="Django" width="60px" src="https://automationpanda.files.wordpress.com/2017/09/django-logo-negative.png" />
 
+<img align="left" alt="GraphQL" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />
+
 <br /><br /><br /><br />
 
 ### Blockchain Development
