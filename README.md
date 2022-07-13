@@ -6,7 +6,7 @@
 
 - <img align="left" alt="andreachello | LinkedIn" width="35px" src="https://avatars.githubusercontent.com/u/87542233?s=200&v=4" /> Full-Stack Blockchain Developer at Pentagon 
 
-- <img align="left" alt="andreachello | LinkedIn" width="35px" src="https://sushibatoken.s3.eu-west-2.amazonaws.com/sushiba_logo_254x254.png" /> Founder and Full-Stack Blockchain Developer at Sushiba 
+- <img align="left" alt="andreachello | LinkedIn" width="35px" src="" /> Founder and Full-Stack Blockchain Developer at Internet of Assets 
 
 - <img align="left" alt="andreachello | LinkedIn" width="60px" src="https://www.newhope.com/sites/newhope360.com/files/styles/article_featured_retina/public/sodexo-logo.png?itok=uEAHQb2C" /> Data Scientist at Sodexo 
 
