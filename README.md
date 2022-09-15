@@ -8,7 +8,7 @@
 
 - <img align="left" alt="andreachello | LinkedIn" width="35px" src="https://avatars.githubusercontent.com/u/87542233?s=200&v=4" /> Full-Stack Blockchain Developer at Pentagon 
 
-- <img align="left" alt="" width="60px" src="https://media-exp1.licdn.com/dms/image/D4E0BAQFPfT02QKG50A/company-logo_100_100/0/1657671680514?e=1671062400&v=beta&t=V71APYH20ZQ_0NrB-EpsherLQhw1Yup7anRJa-hbE9w" /> Founder and Full-Stack Blockchain Developer at Internet of Assets 
+- <img align="left" alt="" width="40px" src="https://media-exp1.licdn.com/dms/image/D4E0BAQFPfT02QKG50A/company-logo_100_100/0/1657671680514?e=1671062400&v=beta&t=V71APYH20ZQ_0NrB-EpsherLQhw1Yup7anRJa-hbE9w" /> Founder and Full-Stack Blockchain Developer at Internet of Assets 
 
 - <img align="left" alt="andreachello | LinkedIn" width="35px" src="https://www.newhope.com/sites/newhope360.com/files/styles/article_featured_retina/public/sodexo-logo.png?itok=uEAHQb2C" /> Data Scientist at Sodexo 
 
