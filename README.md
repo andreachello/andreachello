@@ -6,7 +6,7 @@
 
 - <img align="left" alt="andreachello | Arqit" width="25px" src="https://d1io3yog0oux5.cloudfront.net/_51ff58f1e875d06315e013f8bd6fbfcd/arqit/logo.png" /> Blockchain Developer at Arqit 
 
-- <img align="left" alt="andreachello | LinkedIn" width="35px" src="https://avatars.githubusercontent.com/u/87542233?s=200&v=4" /> Full-Stack Blockchain Developer at Pentagon 
+- <img align="left" alt="andreachello | LinkedIn" width="30px" src="https://avatars.githubusercontent.com/u/87542233?s=200&v=4" /> Full-Stack Blockchain Developer at Pentagon 
 
 - <img align="left" alt="" width="35px" src="https://media-exp1.licdn.com/dms/image/D4E0BAQFPfT02QKG50A/company-logo_100_100/0/1657671680514?e=1671062400&v=beta&t=V71APYH20ZQ_0NrB-EpsherLQhw1Yup7anRJa-hbE9w" /> Founder and Full-Stack Blockchain Developer at Internet of Assets 
 
