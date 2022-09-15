@@ -4,7 +4,7 @@
 
 ### Professional Background 💻
 
-- <img align="left" alt="andreachello | Arqit" width="35px" src="https://d1io3yog0oux5.cloudfront.net/_51ff58f1e875d06315e013f8bd6fbfcd/arqit/logo.png" /> Blockchain Developer at Arqit 
+- <img align="left" alt="andreachello | Arqit" width="35px" style="margin-bottom:1rem;" src="https://d1io3yog0oux5.cloudfront.net/_51ff58f1e875d06315e013f8bd6fbfcd/arqit/logo.png" /> Blockchain Developer at Arqit 
 
 - <img align="left" alt="andreachello | LinkedIn" width="35px" src="https://avatars.githubusercontent.com/u/87542233?s=200&v=4" /> Full-Stack Blockchain Developer at Pentagon 
 
