@@ -61,6 +61,14 @@
 
 <img align="left" alt="Nest" width="60px" src="https://docs.nestjs.com/assets/logo-small.svg" />
 
+<img align="left" alt="Postgres" width="60px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficons%2Fpostgresql&psig=AOvVaw1UcV6bWQ5qG3yHFBkc_H-v&ust=1664161906961000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjuoK38rvoCFQAAAAAdAAAAABAD" />
+
+
+<img align="left" alt="mysql" width="60px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
+
+<img align="left" alt="mongodb" width="60px" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" />
+
+<img align="left" alt="cassandra" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/1280px-Cassandra_logo.svg.png" />
 
 <br /><br /><br /><br />
 
