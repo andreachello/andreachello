@@ -57,7 +57,9 @@
 
 <br /><br /><br /><br />
 
-<img align="left" alt="Node" width="60px" src="https://www.kindpng.com/picc/m/698-6987964_built-on-node-node-js-icon-png-transparent.png" />
+<img align="left" alt="Node" width="60px" src="https://www.pngitem.com/pimgs/m/520-5202823_nodejs-node-js-logo-png-transparent-png.png" />
+
+<img align="left" alt="Nest" width="60px" src="https://docs.nestjs.com/assets/logo-small.svg" />
 
 
 <br /><br /><br /><br />
