@@ -57,7 +57,7 @@
 
 <br /><br /><br /><br />
 
-<img align="left" alt="Node" width="60px" src="[https://cdn-icons-png.flaticon.com/512/919/919825.png](https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png)" />
+<img align="left" alt="Node" width="60px" src="https://www.kindpng.com/picc/m/698-6987964_built-on-node-node-js-icon-png-transparent.png" />
 
 
 <br /><br /><br /><br />
