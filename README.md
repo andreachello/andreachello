@@ -61,7 +61,7 @@
 
 <img align="left" alt="Nest" width="60px" src="https://docs.nestjs.com/assets/logo-small.svg" />
 
-<img align="left" alt="Postgres" width="60px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficons%2Fpostgresql&psig=AOvVaw1UcV6bWQ5qG3yHFBkc_H-v&ust=1664161906961000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjuoK38rvoCFQAAAAAdAAAAABAD" />
+<img align="left" alt="Postgres" width="60px" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" />
 
 
 <img align="left" alt="mysql" width="60px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
