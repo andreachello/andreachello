@@ -57,6 +57,11 @@
 
 <br /><br /><br /><br />
 
+<img align="left" alt="Node" width="60px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" />
+
+
+<br /><br /><br /><br />
+
 ### Blockchain Development
 
 <img align="left" alt="Solidity" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" />
