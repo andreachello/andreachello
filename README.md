@@ -25,7 +25,6 @@
 
 - <img align="left" alt="andreachello | LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Logo_luiss.png" />BSc Economics at LUISS University
 
-
 <br />
 
 ### Connect with me:
