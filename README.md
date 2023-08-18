@@ -5,6 +5,8 @@
 
 
 
+
+
 ## I'm a Finance Professional, Data Scientist, Quantitative Researcher and Full-Stack Blockchain Developer
 
 ### Professional Background 💻
