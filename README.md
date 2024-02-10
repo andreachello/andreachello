@@ -23,7 +23,7 @@
 - <img align="left" alt="andreachello | LinkedIn" width="60px" src="https://www.neikos.it/wp-content/uploads/2015/05/logo_parente.png" />Non-Performing Loans / Fixed-Income Analyst at Parente & Partners
 
 ### Academic Background 👨‍🎓
-- <img align="left" alt="andreachello | LinkedIn" width="30px" src="https://s3.amazonaws.com/totemv2-production/totem/assets/logos/attachments/3130/original/WQU_Radial-Icon_FullColor_RGB.png?1511813082" /> MSc Financial Engineering at World Quant University
+- <img align="left" alt="andreachello | LinkedIn" width="30px" src="./Worldquant_logo.png" /> MSc Financial Engineering at World Quant University
 
 - <img align="left" alt="andreachello | LinkedIn" width="30px" src="https://www.cass.city.ac.uk/__data/assets/git_bridge/0015/344112/main/img/favicon-256.png" /> MSc Investment Management at Cass Business School
 
