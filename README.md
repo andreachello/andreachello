@@ -1,12 +1,6 @@
 ### Hi there, I'm Andrea 👋
 
-
-
-
-
-
-
-## I'm a Finance Professional, Data Scientist, Quantitative Researcher and Full-Stack Blockchain Developer
+## I'm a Full-Stack Engineer, Data Scientist, and Quantitative Researcher
 
 ### Professional Background 💻
 
