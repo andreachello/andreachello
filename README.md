@@ -27,13 +27,6 @@
 
 <br />
 
-### Connect with me:
-
-[<img align="left" alt="andreachello | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="andreachello | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="andreachello | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-
-<br /><br />
 ---
 
 ### 📕 Machine Learning Notebooks
@@ -47,7 +40,3 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-[instagram]: https://www.instagram.com/andreachello/?hl=en
-[linkedin]: https://www.linkedin.com/in/andrea-chello-ab50b39b/
-[facebook]: https://www.facebook.com/andrea.chello94
