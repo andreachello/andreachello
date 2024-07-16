@@ -6,7 +6,7 @@
 
 - Founder and Full-Stack Engineer Developer at Wysdom.xyz
 
-- Full-Stack Engineer Developer at Pentagon.xyz
+- Full-Stack Engineer at Pentagon.xyz
   
 - Data Scientist at Sodexo 
 
