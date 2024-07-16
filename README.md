@@ -48,8 +48,6 @@
 
 ---
 
-<img align="left" alt="andreachello's Github Stats" src="https://github-readme-stats.vercel.app/api?username=andreachello&show_icons=true&hide_border=true" />
-
 [instagram]: https://www.instagram.com/andreachello/?hl=en
 [linkedin]: https://www.linkedin.com/in/andrea-chello-ab50b39b/
 [facebook]: https://www.facebook.com/andrea.chello94
