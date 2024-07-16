@@ -4,17 +4,17 @@
 
 ### Professional Background 💻
 
-- <img align="left" alt="" width="35px" src="https://media.licdn.com/dms/image/D4E0BAQFPlvhRyiMkVw/company-logo_100_100/0/1699224261203/wysdomxyz_logo?e=1715817600&v=beta&t=Wbu8g2-zJDHG9qMCi5-jPE8hdc0st4QaN2eEZJCKmkQ" /> Founder and Full-Stack Blockchain Developer at Wysdom 
+- Founder and Full-Stack Blockchain Developer at Wysdom 
 
-- <img align="left" alt="andreachello | LinkedIn" width="30px" src="https://media.licdn.com/dms/image/C560BAQHjtVSCL_9F2w/company-logo_200_200/0/1663696004718?e=1715817600&v=beta&t=61tVoqfCVq59qfgmsU633mnmEWxxuph_L3opFo7UkN0" /> Full-Stack Blockchain Developer at Pentagon
+- Full-Stack Blockchain Developer at Pentagon
   
-- <img align="left" alt="andreachello | LinkedIn" width="40px" src="https://iconape.com/wp-content/png_logo_vector/sodexo-logo.png" /> Data Scientist at Sodexo 
+- Data Scientist at Sodexo 
 
-- <img align="left" alt="andreachello | LinkedIn" width="60px" src="https://www.illiquidx.com/img/logo_dark.png" /> High Yield Credit Analyst at IlliquidX Capital
+- High Yield Credit Analyst at IlliquidX Capital
 
-- <img align="left" alt="HFIM" width="60px" src="https://www.hefiml.com/images/400_HFIM_logo2.jpg" />Hedge Fund Research Analyst at Hedge Funds Investment Capital
+- Hedge Fund Research Analyst at Hedge Funds Investment Capital
 
-- <img align="left" alt="andreachello | LinkedIn" width="60px" src="https://www.neikos.it/wp-content/uploads/2015/05/logo_parente.png" />Non-Performing Loans / Fixed-Income Analyst at Parente & Partners
+- Non-Performing Loans / Fixed-Income Analyst at Parente & Partners
 
 ### Academic Background 👨‍🎓
 - <img align="left" alt="andreachello | LinkedIn" width="30px" src="./Worldquant_logo.png" /> MSc Financial Engineering at World Quant University
