@@ -4,9 +4,9 @@
 
 ### Professional Background 💻
 
-- Founder and Full-Stack Blockchain Developer at Wysdom 
+- Founder and Full-Stack Engineer Developer at Wysdom.xyz
 
-- Full-Stack Blockchain Developer at Pentagon
+- Full-Stack Engineer Developer at Pentagon.xyz
   
 - Data Scientist at Sodexo 
 
