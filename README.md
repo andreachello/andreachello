@@ -4,7 +4,9 @@
 
 ### Professional Background 💻
 
-- Founder and Full-Stack Engineer Developer at Wysdom.xyz
+- Founder at Soba.so
+
+- Founder at Wysdom.xyz
 
 - Full-Stack Engineer at Pentagon.xyz
   
