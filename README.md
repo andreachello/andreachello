@@ -4,9 +4,9 @@
 
 ### Professional Background 💻
 
-- Founder at Soba.so
+- Founder at <a href="https://soba.so" target="__blank">Soba.so</a>
 
-- Founder at Wysdom.xyz
+- Founder at <a href="https://wysdom.xyz" target="__blank">Wysdom.xyz</a>
 
 - Full-Stack Engineer at Pentagon.xyz
   
@@ -42,3 +42,4 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
+  
